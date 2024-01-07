@@ -2,7 +2,7 @@
 
 ```shell
 # Clone the repo
-git clone https://github.com/emrus17/g9tech_new_project.git
+git clone https://github.com/G9tech/g9tech_new_project.git
 cd g9tech_mew_project
 
 # Install dependencies
